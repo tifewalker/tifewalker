@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @tifewalker
-- 👀 I’m interested in building dynamic and scalable web applications using the MERN stack, React development, graphics design, and WordPress.
-- 🌱 I’m currently learning and enhancing my skills in Zoho CRM and automation tools to help businesses streamline their processes.
-- 💞️ I’m looking to collaborate on innovative web projects, React-based applications, and automation solutions that drive business growth.
-- 📫 How to reach me: Currently working at Creastech Limited, Lagos, Nigeria. Feel free to connect with me here on GitHub or reach out via LinkedIn (https://www.linkedin.com/in/olawuyi-boluwatife-3088632b8/) or via email(olawuyiboluwatife2@gmail.com).
+👋 Hi, I’m @tifewalker
+
+👀 I’m passionate about building dynamic, scalable web applications using the MERN stack, React, graphics design, and WordPress.
+
+⚙️ I specialize in Zoho CRM customization and automation tools, helping businesses streamline workflows and improve efficiency.
+
+💞️ I’m open to collaborating on innovative web projects, React-based applications, and automation solutions that drive real business growth.
+
+📫 How to reach me: Currently working at Creastech Limited, Lagos, Nigeria. Feel free to connect with me here on GitHub or reach out via LinkedIn (https://www.linkedin.com/in/olawuyi-boluwatife-3088632b8/) or via email(olawuyiboluwatife2@gmail.com).
 
 
 <!---
