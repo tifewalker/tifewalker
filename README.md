@@ -1,15 +1,38 @@
-👋 Hi, I’m @tifewalker
+# 👋 Hi, I'm Boluwatife Olawuyi (@tifewalker)
 
-👀 I’m passionate about building dynamic, scalable web applications using the MERN stack, React, graphics design, and WordPress.
+**CRM & AI Automation Engineer | Business Systems | Full-Stack Integration**
 
-⚙️ I specialize in Zoho CRM customization and automation tools, helping businesses streamline workflows and improve efficiency.
+I'm a technology professional with 5+ years of experience building, integrating and supporting business applications. I enjoy solving operational challenges through software, automation and well-designed systems.
 
-💞️ I’m open to collaborating on innovative web projects, React-based applications, and automation solutions that drive real business growth.
+### 🚀 What I Do
 
-📫 How to reach me: Currently working at Creastech Limited, Lagos, Nigeria. Feel free to connect with me here on GitHub or reach out via LinkedIn (https://www.linkedin.com/in/olawuyi-boluwatife-3088632b8/) or via email(olawuyiboluwatife2@gmail.com).
+- **CRM & Business Automation:** Zoho CRM, Zoho Desk, Zoho Analytics, Deluge, Blueprints, Zoho Flow and workflow automation.
+- **AI & Customer Support Automation:** AI agents, knowledge-base integration, omnichannel support, WhatsApp automation and intelligent workflows.
+- **Systems Integration:** REST APIs, webhooks, third-party integrations and business process automation.
+- **Full-Stack Development:** JavaScript, TypeScript, Node.js, Express.js, React, MongoDB and PostgreSQL.
+- **Business Systems & Implementation:** Requirements analysis, process mapping, solution implementation, UAT, technical documentation and application support.
 
+### 🛠️ Technologies & Tools
 
-<!---
-tifewalker/tifewalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`Zoho CRM` `Zoho Desk` `Deluge` `Zoho Flow` `Node.js` `Express.js` `React` `TypeScript` `JavaScript` `MongoDB` `PostgreSQL` `REST APIs` `Webhooks` `AWS` `Git`
+
+### 💡 What I'm Building
+
+I'm the founder and developer of **[KONECT Worksuite](https://konectworksuite.com/)**, an AI-powered business platform designed to help SMEs manage customer relationships, support operations, communications and workflows in one place.
+
+I also enjoy exploring practical applications of AI, building integrations and turning business requirements into reliable production systems.
+
+### 🤝 Let's Connect
+
+I'm open to collaborating on meaningful projects, international opportunities, CRM implementations, business systems engineering and AI automation.
+
+- 🌐 **Portfolio:** https://www.olawuyiboluwatife.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/olawuyi-boluwatife-3088632b
+- 📧 **Email:** olawuyiboluwatife2@gmail.com
+- 💻 **GitHub:** https://github.com/tifewalker
+
+⚽ Barcelona fan. Always learning, building and improving.
+
+---
+
+*Building systems that make businesses work better.*
