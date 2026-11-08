@@ -31,7 +31,7 @@ I'm open to collaborating on meaningful projects, international opportunities, C
 - 📧 **Email:** olawuyiboluwatife2@gmail.com
 - 💻 **GitHub:** https://github.com/tifewalker
 
-⚽ Barcelona fan. Always learning, building and improving.
+⚽ Always learning, building and improving.
 
 ---
 
